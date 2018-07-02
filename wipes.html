@@ -1,0 +1,99 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=500" />
+	<meta name="keywords" content="ScrollMagic, example, scrolling, attaching, scrollbar, anchor, link, in-page, navigation, hash" />
+	<meta name="author"	content="Jan Paepke (www.janpaepke.de)" />
+	<title>Section Wipes (manual) - Examples - ScrollMagic</title>
+
+
+	<link rel="stylesheet" href="css/wipes.css" type="text/css">
+
+
+  <style type="text/css">
+    #pinContainer {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+    .panel {
+      height: 100%;
+      width: 100%;
+      position: absolute;
+      padding: 10vmin 0;
+    }
+  </style>
+
+</head>
+<body>
+	<ul id="menu"></ul>
+	<div id="content-wrapper">
+		<div id="example-wrapper">
+			<div class="scrollContent">
+				<section id="titlechart">
+					<div id="description">
+						<h1 class="badge gsap">Section Wipes (manual)</h1>
+						<h2>Wiping in content using custom movement</h2>
+						<p>To achieve this effect, simply create a full page container, that is pinned using the <code>setPin</code> method. Then create your panels inside of it and position them absolutely.</p>
+						<p>Now move in the panels using javascript and bind the movement to the scene progress.</p>
+						<p>The most convenient way to implement this is using GSAP and ScrollMagic's <code>setTween</code> method, as used in this example.</p>
+						<a href="#" class="viewsource">view source</a>
+					</div>
+				</section>
+				<section class="demo" id="section-wipes">
+
+					<div id="pinContainer">
+						<section class="panel blue">
+							<b>ONE</b>
+              <h1>Lorem ipsum dolor sit amet consectetuer adipiscing
+elit</h1>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing
+elit. Aenean commodo ligula eget dolor. Aenean massa
+<strong>strong</strong>. Cum sociis natoque penatibus
+et magnis dis parturient montes, nascetur ridiculus
+mus. Donec quam felis, ultricies nec, pellentesque
+eu, pretium quis, sem. Nulla consequat massa quis
+enim. Donec pede justo, fringilla vel, aliquet nec,
+vulputate eget, arcu. In enim justo, rhoncus ut,
+imperdiet a, venenatis vitae, justo. Nullam dictum
+felis eu pede <a class="external ext" href="#">link</a>
+mollis pretium. Integer tincidunt. Cras dapibus.
+Vivamus elementum semper nisi. Aenean vulputate
+eleifend tellus. Aenean leo ligula, porttitor eu,
+consequat vitae, eleifend ac, enim. Aliquam lorem ante,
+dapibus in, viverra quis, feugiat a, tellus. Phasellus
+viverra nulla ut metus varius laoreet. Quisque rutrum.
+Aenean imperdiet. Etiam ultricies nisi vel augue.
+Curabitur ullamcorper ultricies nisi.</p>
+<h1>Lorem ipsum dolor sit amet consectetuer adipiscing
+elit</h1>
+<h2>Aenean commodo ligula eget dolor aenean massa</h2>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing
+elit. Aenean commodo ligula eget dolor. Aenean massa.
+Cum sociis natoque penatibus et magnis dis parturient
+montes, nascetur ridiculus mus. Donec quam felis,
+ultricies nec, pellentesque eu, pretium quis, sem.</p>
+<h2>Aenean commodo ligula eget dolor aenean massa</h2>
+
+						</section>
+						<section class="panel turqoise">
+							<b>TWO</b>
+						</section>
+						<section class="panel green">
+							<b>THREE</b>
+						</section>
+						<section class="panel bordeaux">
+							<b>FOUR</b>
+						</section>
+					</div>
+
+				</section>
+			</div>
+		</div>
+	</div>
+    <script src="js/wipe-min.js"></script>
+</body>
+</html>

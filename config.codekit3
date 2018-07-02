@@ -1365,6 +1365,13 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/bower_components\/bootstrap\/dist\/js\/bootstrap.bundle.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/dist\/js\/bootstrap.bundle.js.map",
+		"oF": 0
+		},
 	"\/bower_components\/bootstrap\/dist\/js\/bootstrap.bundle.min.js": {
 		"ft": 64,
 		"ma": 0,
@@ -1408,6 +1415,13 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"\/bower_components\/bootstrap\/dist\/js\/bootstrap.min.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/dist\/js\/bootstrap.min.js.map",
+		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/docs\/4.1\/about\/brand.md": {
 		"cB": 0,
@@ -2301,6 +2315,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/bower_components\/bootstrap\/docs\/4.1\/examples\/screenshots\/carousel.png": {
+		"ft": 32768,
+		"iS": 31465,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/examples\/screenshots\/carousel.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/bower_components\/bootstrap\/docs\/4.1\/examples\/screenshots\/checkout.png": {
 		"ft": 32768,
 		"iS": 28180,
@@ -2345,6 +2370,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/bower_components\/bootstrap\/docs\/4.1\/examples\/screenshots\/grid.png": {
+		"ft": 32768,
+		"iS": 33860,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/examples\/screenshots\/grid.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/bower_components\/bootstrap\/docs\/4.1\/examples\/screenshots\/jumbotron.png": {
+		"ft": 32768,
+		"iS": 38408,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/examples\/screenshots\/jumbotron.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/bower_components\/bootstrap\/docs\/4.1\/examples\/screenshots\/navbar-bottom.png": {
 		"ft": 32768,
 		"iS": 11316,
@@ -2361,6 +2408,17 @@
 		"iS": 13616,
 		"oA": 2,
 		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/examples\/screenshots\/navbar-fixed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/bower_components\/bootstrap\/docs\/4.1\/examples\/screenshots\/navbar-static.png": {
+		"ft": 32768,
+		"iS": 14893,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/examples\/screenshots\/navbar-static.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2455,6 +2513,13 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/bower_components\/bootstrap\/docs\/4.1\/examples\/sign-in\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/examples\/sign-in\/index.html",
+		"oF": 0
+		},
 	"\/bower_components\/bootstrap\/docs\/4.1\/examples\/sign-in\/signin.css": {
 		"aP": 0,
 		"bl": 0,
@@ -2464,6 +2529,13 @@
 		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/examples\/sign-in\/signin.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/bower_components\/bootstrap\/docs\/4.1\/examples\/starter-template\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/examples\/starter-template\/index.html",
+		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/docs\/4.1\/examples\/starter-template\/starter-template.css": {
 		"aP": 0,
@@ -2752,6 +2824,24 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/bower_components\/bootstrap\/docs\/4.1\/getting-started\/webpack.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/getting-started\/webpack.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/bower_components\/bootstrap\/docs\/4.1\/layout\/grid.md": {
 		"cB": 0,
 		"cS": 0,
@@ -2852,6 +2942,24 @@
 		"ft": 4096,
 		"oA": 2,
 		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/utilities\/borders.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bower_components\/bootstrap\/docs\/4.1\/utilities\/clearfix.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/utilities\/clearfix.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -3076,6 +3184,24 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/bower_components\/bootstrap\/docs\/4.1\/utilities\/text.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/utilities\/text.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/bower_components\/bootstrap\/docs\/4.1\/utilities\/vertical-align.md": {
 		"cB": 0,
 		"cS": 0,
@@ -3086,6 +3212,24 @@
 		"ft": 4096,
 		"oA": 2,
 		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/utilities\/vertical-align.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bower_components\/bootstrap\/docs\/4.1\/utilities\/visibility.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/utilities\/visibility.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -3156,6 +3300,16 @@
 		"oAP": "\/build\/bower_components\/bootstrap\/js\/dist\/button.js.map",
 		"oF": 0
 		},
+	"\/bower_components\/bootstrap\/js\/dist\/carousel.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/js\/dist\/carousel.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/bower_components\/bootstrap\/js\/dist\/carousel.js.map": {
 		"cB": 0,
 		"ft": 8192,
@@ -3197,6 +3351,33 @@
 		"oAP": "\/build\/bower_components\/bootstrap\/js\/dist\/dropdown.js.map",
 		"oF": 0
 		},
+	"\/bower_components\/bootstrap\/js\/dist\/index.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/js\/dist\/index.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/bootstrap\/js\/dist\/index.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/js\/dist\/index.js.map",
+		"oF": 0
+		},
+	"\/bower_components\/bootstrap\/js\/dist\/modal.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/js\/dist\/modal.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/bower_components\/bootstrap\/js\/dist\/modal.js.map": {
 		"cB": 0,
 		"ft": 8192,
@@ -3227,6 +3408,23 @@
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/build\/bower_components\/bootstrap\/js\/dist\/scrollspy.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/bootstrap\/js\/dist\/scrollspy.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/js\/dist\/scrollspy.js.map",
+		"oF": 0
+		},
+	"\/bower_components\/bootstrap\/js\/dist\/tab.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/js\/dist\/tab.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -3475,12 +3673,62 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/bower_components\/bootstrap\/js\/tests\/unit\/collapse.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/js\/tests\/unit\/collapse.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/bootstrap\/js\/tests\/unit\/dropdown.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/js\/tests\/unit\/dropdown.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/bootstrap\/js\/tests\/unit\/modal.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/js\/tests\/unit\/modal.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/bootstrap\/js\/tests\/unit\/popover.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/js\/tests\/unit\/popover.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/bower_components\/bootstrap\/js\/tests\/unit\/scrollspy.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/build\/bower_components\/bootstrap\/js\/tests\/unit\/scrollspy.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/bootstrap\/js\/tests\/unit\/tab.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/js\/tests\/unit\/tab.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -3526,6 +3774,13 @@
 		"oAP": "\/build\/bower_components\/bootstrap\/js\/tests\/visual\/carousel.html",
 		"oF": 0
 		},
+	"\/bower_components\/bootstrap\/js\/tests\/visual\/collapse.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/js\/tests\/visual\/collapse.html",
+		"oF": 0
+		},
 	"\/bower_components\/bootstrap\/js\/tests\/visual\/dropdown.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -3559,6 +3814,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/bower_components\/bootstrap\/js\/tests\/visual\/tab.html",
+		"oF": 0
+		},
+	"\/bower_components\/bootstrap\/js\/tests\/visual\/tooltip.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/js\/tests\/visual\/tooltip.html",
 		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/LICENSE": {
@@ -4112,6 +4374,19 @@
 		"ma": 1,
 		"oA": 2,
 		"oAP": "\/build\/bower_components\/bootstrap\/scss\/bootstrap-grid.scss",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/bower_components\/bootstrap\/scss\/bootstrap-reboot.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 1,
+		"ft": 4,
+		"ma": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/scss\/bootstrap-reboot.scss",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
@@ -4714,6 +4989,24 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/bower_components\/bootstrap\/sw.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/bootstrap\/sw.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/.bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/.bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/bower_components\/gsap\/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
@@ -5007,7 +5300,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/build\/bower_components\/gsap\/src\/minified\/jquery.gsap.min.js",
 		"oF": 0,
 		"sC": 3,
@@ -5187,7 +5480,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/build\/bower_components\/gsap\/src\/minified\/TweenMax.min.js",
 		"oF": 0,
 		"sC": 3,
@@ -6327,6 +6620,16 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/bower_components\/jquery\/src\/queue.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/jquery\/src\/queue.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/bower_components\/jquery\/src\/queue\/delay.js": {
 		"ft": 64,
 		"ma": 0,
@@ -6383,6 +6686,16 @@
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/build\/bower_components\/jquery\/src\/traversing.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/jquery\/src\/traversing\/findFilter.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/jquery\/src\/traversing\/findFilter.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -6467,6 +6780,16 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/bower_components\/jquery\/src\/var\/fnToString.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/jquery\/src\/var\/fnToString.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/bower_components\/jquery\/src\/var\/getProto.js": {
 		"ft": 64,
 		"ma": 0,
@@ -6503,6 +6826,16 @@
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/build\/bower_components\/jquery\/src\/var\/isFunction.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/jquery\/src\/var\/isWindow.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/jquery\/src\/var\/isWindow.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -6577,6 +6910,16 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/bower_components\/jquery\/src\/var\/toString.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/jquery\/src\/var\/toString.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/bower_components\/jquery\/src\/wrap.js": {
 		"ft": 64,
 		"ma": 0,
@@ -6643,7 +6986,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/build\/bower_components\/scrollmagic\/scrollmagic\/minified\/plugins\/animation.gsap.min.js",
 		"oF": 0,
 		"sC": 3,
@@ -6986,6 +7329,194 @@
 		"oAP": "\/build\/css\/styles.css.map",
 		"oF": 0
 		},
+	"\/css\/webfont_gibson.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/build\/css\/webfont_gibson-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/webfonts\/2381F1_0_0.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/css\/webfonts\/2381F1_0_0.eot",
+		"oF": 0
+		},
+	"\/css\/webfonts\/2381F1_0_0.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/css\/webfonts\/2381F1_0_0.ttf",
+		"oF": 0
+		},
+	"\/css\/webfonts\/2381F1_0_0.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/css\/webfonts\/2381F1_0_0.woff",
+		"oF": 0
+		},
+	"\/css\/webfonts\/2381F1_1_0.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/css\/webfonts\/2381F1_1_0.eot",
+		"oF": 0
+		},
+	"\/css\/webfonts\/2381F1_1_0.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/css\/webfonts\/2381F1_1_0.ttf",
+		"oF": 0
+		},
+	"\/css\/webfonts\/2381F1_1_0.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/css\/webfonts\/2381F1_1_0.woff",
+		"oF": 0
+		},
+	"\/css\/webfonts\/2381F1_2_0.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/css\/webfonts\/2381F1_2_0.eot",
+		"oF": 0
+		},
+	"\/css\/webfonts\/2381F1_2_0.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/css\/webfonts\/2381F1_2_0.ttf",
+		"oF": 0
+		},
+	"\/css\/webfonts\/2381F1_2_0.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/css\/webfonts\/2381F1_2_0.woff",
+		"oF": 0
+		},
+	"\/css\/webfonts\/2381F1_3_0.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/css\/webfonts\/2381F1_3_0.eot",
+		"oF": 0
+		},
+	"\/css\/webfonts\/2381F1_3_0.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/css\/webfonts\/2381F1_3_0.ttf",
+		"oF": 0
+		},
+	"\/css\/webfonts\/2381F1_3_0.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/css\/webfonts\/2381F1_3_0.woff",
+		"oF": 0
+		},
+	"\/css\/webfonts\/2381F1_4_0.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/css\/webfonts\/2381F1_4_0.eot",
+		"oF": 0
+		},
+	"\/css\/webfonts\/2381F1_4_0.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/css\/webfonts\/2381F1_4_0.ttf",
+		"oF": 0
+		},
+	"\/css\/webfonts\/2381F1_4_0.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/css\/webfonts\/2381F1_4_0.woff",
+		"oF": 0
+		},
+	"\/css\/webfonts\/2381F1_5_0.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/css\/webfonts\/2381F1_5_0.eot",
+		"oF": 0
+		},
+	"\/css\/webfonts\/2381F1_5_0.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/css\/webfonts\/2381F1_5_0.ttf",
+		"oF": 0
+		},
+	"\/css\/webfonts\/2381F1_5_0.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/css\/webfonts\/2381F1_5_0.woff",
+		"oF": 0
+		},
+	"\/css\/webfonts\/2381F1_6_0.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/css\/webfonts\/2381F1_6_0.eot",
+		"oF": 0
+		},
+	"\/css\/webfonts\/2381F1_6_0.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/css\/webfonts\/2381F1_6_0.ttf",
+		"oF": 0
+		},
+	"\/css\/webfonts\/2381F1_6_0.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/css\/webfonts\/2381F1_6_0.woff",
+		"oF": 0
+		},
+	"\/css\/webfonts\/2381F1_7_0.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/css\/webfonts\/2381F1_7_0.eot",
+		"oF": 0
+		},
+	"\/css\/webfonts\/2381F1_7_0.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/css\/webfonts\/2381F1_7_0.ttf",
+		"oF": 0
+		},
+	"\/css\/webfonts\/2381F1_7_0.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/css\/webfonts\/2381F1_7_0.woff",
+		"oF": 0
+		},
+	"\/css\/wipes.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/build\/css\/wipes-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/imgs\/test.jpg": {
 		"ft": 16384,
 		"iS": 3604369,
@@ -7002,6 +7533,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/build\/index.html",
+		"oF": 0
+		},
+	"\/index__fadein.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/index__fadein.html",
 		"oF": 0
 		},
 	"\/js\/main-min.js": {
@@ -7024,6 +7562,36 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"\/js\/main__v1_simple-fade-in.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/build\/js\/main__v1_simple-fade-in-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/wipe-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/build\/js\/wipe-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/wipe.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/wipe-min.js",
+		"oF": 2,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/scss\/partials\/_magic.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -7033,6 +7601,19 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "\/build\/scss\/partials\/css\/_magic.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/scss\/partials\/_mixins.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 1,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/build\/scss\/partials\/css\/_mixins.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
@@ -7062,6 +7643,13 @@
 		"oF": 2,
 		"oS": 3,
 		"uL": 1
+		},
+	"\/wipes.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/wipes.html",
+		"oF": 0
 		}
 	},
 "hooks": [
