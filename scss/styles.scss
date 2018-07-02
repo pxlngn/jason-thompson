@@ -1,0 +1,13 @@
+@import '../bower_components/bootstrap/scss/bootstrap.scss';
+/* partials */
+@import 'partials/type.scss';
+@import 'partials/magic.scss';
+
+body {
+  background-color: black;
+}
+
+img {
+  width : 100%;
+  height: auto;
+}
