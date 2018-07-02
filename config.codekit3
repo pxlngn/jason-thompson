@@ -1365,13 +1365,6 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"\/bower_components\/bootstrap\/dist\/js\/bootstrap.bundle.js.map": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/dist\/js\/bootstrap.bundle.js.map",
-		"oF": 0
-		},
 	"\/bower_components\/bootstrap\/dist\/js\/bootstrap.bundle.min.js": {
 		"ft": 64,
 		"ma": 0,
@@ -1415,13 +1408,6 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
-		},
-	"\/bower_components\/bootstrap\/dist\/js\/bootstrap.min.js.map": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/dist\/js\/bootstrap.min.js.map",
-		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/docs\/4.1\/about\/brand.md": {
 		"cB": 0,
@@ -2315,17 +2301,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/bower_components\/bootstrap\/docs\/4.1\/examples\/screenshots\/carousel.png": {
-		"ft": 32768,
-		"iS": 31465,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/examples\/screenshots\/carousel.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"\/bower_components\/bootstrap\/docs\/4.1\/examples\/screenshots\/checkout.png": {
 		"ft": 32768,
 		"iS": 28180,
@@ -2370,28 +2345,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/bower_components\/bootstrap\/docs\/4.1\/examples\/screenshots\/grid.png": {
-		"ft": 32768,
-		"iS": 33860,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/examples\/screenshots\/grid.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/bower_components\/bootstrap\/docs\/4.1\/examples\/screenshots\/jumbotron.png": {
-		"ft": 32768,
-		"iS": 38408,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/examples\/screenshots\/jumbotron.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"\/bower_components\/bootstrap\/docs\/4.1\/examples\/screenshots\/navbar-bottom.png": {
 		"ft": 32768,
 		"iS": 11316,
@@ -2408,17 +2361,6 @@
 		"iS": 13616,
 		"oA": 2,
 		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/examples\/screenshots\/navbar-fixed.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/bower_components\/bootstrap\/docs\/4.1\/examples\/screenshots\/navbar-static.png": {
-		"ft": 32768,
-		"iS": 14893,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/examples\/screenshots\/navbar-static.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2513,13 +2455,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/bower_components\/bootstrap\/docs\/4.1\/examples\/sign-in\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/examples\/sign-in\/index.html",
-		"oF": 0
-		},
 	"\/bower_components\/bootstrap\/docs\/4.1\/examples\/sign-in\/signin.css": {
 		"aP": 0,
 		"bl": 0,
@@ -2529,13 +2464,6 @@
 		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/examples\/sign-in\/signin.css",
 		"oF": 0,
 		"oS": 0
-		},
-	"\/bower_components\/bootstrap\/docs\/4.1\/examples\/starter-template\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/examples\/starter-template\/index.html",
-		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/docs\/4.1\/examples\/starter-template\/starter-template.css": {
 		"aP": 0,
@@ -2824,24 +2752,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bower_components\/bootstrap\/docs\/4.1\/getting-started\/webpack.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/getting-started\/webpack.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
 	"\/bower_components\/bootstrap\/docs\/4.1\/layout\/grid.md": {
 		"cB": 0,
 		"cS": 0,
@@ -2942,24 +2852,6 @@
 		"ft": 4096,
 		"oA": 2,
 		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/utilities\/borders.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/bower_components\/bootstrap\/docs\/4.1\/utilities\/clearfix.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/utilities\/clearfix.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -3184,24 +3076,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bower_components\/bootstrap\/docs\/4.1\/utilities\/text.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/utilities\/text.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
 	"\/bower_components\/bootstrap\/docs\/4.1\/utilities\/vertical-align.md": {
 		"cB": 0,
 		"cS": 0,
@@ -3212,24 +3086,6 @@
 		"ft": 4096,
 		"oA": 2,
 		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/utilities\/vertical-align.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/bower_components\/bootstrap\/docs\/4.1\/utilities\/visibility.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/docs\/4.1\/utilities\/visibility.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -3300,16 +3156,6 @@
 		"oAP": "\/build\/bower_components\/bootstrap\/js\/dist\/button.js.map",
 		"oF": 0
 		},
-	"\/bower_components\/bootstrap\/js\/dist\/carousel.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/js\/dist\/carousel.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
 	"\/bower_components\/bootstrap\/js\/dist\/carousel.js.map": {
 		"cB": 0,
 		"ft": 8192,
@@ -3351,33 +3197,6 @@
 		"oAP": "\/build\/bower_components\/bootstrap\/js\/dist\/dropdown.js.map",
 		"oF": 0
 		},
-	"\/bower_components\/bootstrap\/js\/dist\/index.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/js\/dist\/index.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/bootstrap\/js\/dist\/index.js.map": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/js\/dist\/index.js.map",
-		"oF": 0
-		},
-	"\/bower_components\/bootstrap\/js\/dist\/modal.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/js\/dist\/modal.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
 	"\/bower_components\/bootstrap\/js\/dist\/modal.js.map": {
 		"cB": 0,
 		"ft": 8192,
@@ -3408,23 +3227,6 @@
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/build\/bower_components\/bootstrap\/js\/dist\/scrollspy.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/bootstrap\/js\/dist\/scrollspy.js.map": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/js\/dist\/scrollspy.js.map",
-		"oF": 0
-		},
-	"\/bower_components\/bootstrap\/js\/dist\/tab.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/js\/dist\/tab.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -3673,62 +3475,12 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"\/bower_components\/bootstrap\/js\/tests\/unit\/collapse.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/js\/tests\/unit\/collapse.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/bootstrap\/js\/tests\/unit\/dropdown.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/js\/tests\/unit\/dropdown.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/bootstrap\/js\/tests\/unit\/modal.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/js\/tests\/unit\/modal.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/bootstrap\/js\/tests\/unit\/popover.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/js\/tests\/unit\/popover.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
 	"\/bower_components\/bootstrap\/js\/tests\/unit\/scrollspy.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/build\/bower_components\/bootstrap\/js\/tests\/unit\/scrollspy.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/bootstrap\/js\/tests\/unit\/tab.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/js\/tests\/unit\/tab.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -3774,13 +3526,6 @@
 		"oAP": "\/build\/bower_components\/bootstrap\/js\/tests\/visual\/carousel.html",
 		"oF": 0
 		},
-	"\/bower_components\/bootstrap\/js\/tests\/visual\/collapse.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/js\/tests\/visual\/collapse.html",
-		"oF": 0
-		},
 	"\/bower_components\/bootstrap\/js\/tests\/visual\/dropdown.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -3814,13 +3559,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/bower_components\/bootstrap\/js\/tests\/visual\/tab.html",
-		"oF": 0
-		},
-	"\/bower_components\/bootstrap\/js\/tests\/visual\/tooltip.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/js\/tests\/visual\/tooltip.html",
 		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/LICENSE": {
@@ -4374,19 +4112,6 @@
 		"ma": 1,
 		"oA": 2,
 		"oAP": "\/build\/bower_components\/bootstrap\/scss\/bootstrap-grid.scss",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/bower_components\/bootstrap\/scss\/bootstrap-reboot.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 1,
-		"ft": 4,
-		"ma": 1,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/scss\/bootstrap-reboot.scss",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
@@ -4989,12 +4714,711 @@
 		"oS": 3,
 		"uL": 1
 		},
-	"\/bower_components\/bootstrap\/sw.js": {
+	"\/bower_components\/gsap\/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/.gitignore",
+		"oF": 0
+		},
+	"\/bower_components\/gsap\/bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/gsap\/package.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/package.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/gsap\/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/README.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bower_components\/gsap\/src\/esm\/all.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/build\/bower_components\/bootstrap\/sw.js",
+		"oAP": "\/build\/bower_components\/gsap\/src\/esm\/all.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/esm\/AttrPlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/build\/bower_components\/gsap\/src\/esm\/AttrPlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/esm\/BezierPlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/build\/bower_components\/gsap\/src\/esm\/BezierPlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/esm\/ColorPropsPlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/build\/bower_components\/gsap\/src\/esm\/ColorPropsPlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/esm\/CSSPlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/build\/bower_components\/gsap\/src\/esm\/CSSPlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/esm\/CSSRulePlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/build\/bower_components\/gsap\/src\/esm\/CSSRulePlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/esm\/DirectionalRotationPlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/build\/bower_components\/gsap\/src\/esm\/DirectionalRotationPlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/esm\/Draggable.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/build\/bower_components\/gsap\/src\/esm\/Draggable.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/esm\/EaselPlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/build\/bower_components\/gsap\/src\/esm\/EaselPlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/esm\/EasePack.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/build\/bower_components\/gsap\/src\/esm\/EasePack.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/esm\/EndArrayPlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/build\/bower_components\/gsap\/src\/esm\/EndArrayPlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/esm\/index.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/esm\/index.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/esm\/ModifiersPlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/build\/bower_components\/gsap\/src\/esm\/ModifiersPlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/esm\/package.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/esm\/package.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/gsap\/src\/esm\/PixiPlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/build\/bower_components\/gsap\/src\/esm\/PixiPlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/esm\/RoundPropsPlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/build\/bower_components\/gsap\/src\/esm\/RoundPropsPlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/esm\/ScrollToPlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/build\/bower_components\/gsap\/src\/esm\/ScrollToPlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/esm\/TEMPLATE_Plugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/esm\/TEMPLATE_Plugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/esm\/TextPlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/build\/bower_components\/gsap\/src\/esm\/TextPlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/esm\/TimelineLite.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/build\/bower_components\/gsap\/src\/esm\/TimelineLite.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/esm\/TimelineMax.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/build\/bower_components\/gsap\/src\/esm\/TimelineMax.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/esm\/TweenLite.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/build\/bower_components\/gsap\/src\/esm\/TweenLite.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/esm\/TweenMax.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/build\/bower_components\/gsap\/src\/esm\/TweenMax.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/esm\/TweenMaxBase.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/build\/bower_components\/gsap\/src\/esm\/TweenMaxBase.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/minified\/easing\/EasePack.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/minified\/easing\/EasePack.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/minified\/jquery.gsap.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/minified\/jquery.gsap.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/minified\/plugins\/AttrPlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/minified\/plugins\/AttrPlugin.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/minified\/plugins\/BezierPlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/minified\/plugins\/BezierPlugin.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/minified\/plugins\/ColorPropsPlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/minified\/plugins\/ColorPropsPlugin.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/minified\/plugins\/CSSPlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/minified\/plugins\/CSSPlugin.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/minified\/plugins\/CSSRulePlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/minified\/plugins\/CSSRulePlugin.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/minified\/plugins\/DirectionalRotationPlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/minified\/plugins\/DirectionalRotationPlugin.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/minified\/plugins\/EaselPlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/minified\/plugins\/EaselPlugin.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/minified\/plugins\/EndArrayPlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/minified\/plugins\/EndArrayPlugin.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/minified\/plugins\/ModifiersPlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/minified\/plugins\/ModifiersPlugin.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/minified\/plugins\/PixiPlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/minified\/plugins\/PixiPlugin.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/minified\/plugins\/RaphaelPlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/minified\/plugins\/RaphaelPlugin.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/minified\/plugins\/RoundPropsPlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/minified\/plugins\/RoundPropsPlugin.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/minified\/plugins\/ScrollToPlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/minified\/plugins\/ScrollToPlugin.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/minified\/plugins\/TextPlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/minified\/plugins\/TextPlugin.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/minified\/TimelineLite.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/minified\/TimelineLite.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/minified\/TimelineMax.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/minified\/TimelineMax.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/minified\/TweenLite.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/minified\/TweenLite.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/minified\/TweenMax.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/minified\/TweenMax.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/minified\/utils\/Draggable.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/minified\/utils\/Draggable.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/uncompressed\/easing\/EasePack.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/uncompressed\/easing\/EasePack.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/uncompressed\/jquery.gsap.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/uncompressed\/jquery.gsap.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/uncompressed\/plugins\/AttrPlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/uncompressed\/plugins\/AttrPlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/uncompressed\/plugins\/BezierPlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/uncompressed\/plugins\/BezierPlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/uncompressed\/plugins\/ColorPropsPlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/uncompressed\/plugins\/ColorPropsPlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/uncompressed\/plugins\/CSSPlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/uncompressed\/plugins\/CSSPlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/uncompressed\/plugins\/CSSRulePlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/uncompressed\/plugins\/CSSRulePlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/uncompressed\/plugins\/DirectionalRotationPlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/uncompressed\/plugins\/DirectionalRotationPlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/uncompressed\/plugins\/EaselPlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/uncompressed\/plugins\/EaselPlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/uncompressed\/plugins\/EndArrayPlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/uncompressed\/plugins\/EndArrayPlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/uncompressed\/plugins\/ModifiersPlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/uncompressed\/plugins\/ModifiersPlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/uncompressed\/plugins\/PixiPlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/uncompressed\/plugins\/PixiPlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/uncompressed\/plugins\/RaphaelPlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/uncompressed\/plugins\/RaphaelPlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/uncompressed\/plugins\/RoundPropsPlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/uncompressed\/plugins\/RoundPropsPlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/uncompressed\/plugins\/ScrollToPlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/uncompressed\/plugins\/ScrollToPlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/uncompressed\/plugins\/TEMPLATE_Plugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/uncompressed\/plugins\/TEMPLATE_Plugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/uncompressed\/plugins\/TextPlugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/uncompressed\/plugins\/TextPlugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/uncompressed\/TimelineLite.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/uncompressed\/TimelineLite.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/uncompressed\/TimelineMax.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/uncompressed\/TimelineMax.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/uncompressed\/TweenLite.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/uncompressed\/TweenLite.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/uncompressed\/TweenMax.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/uncompressed\/TweenMax.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/gsap\/src\/uncompressed\/utils\/Draggable.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/build\/bower_components\/gsap\/src\/uncompressed\/utils\/Draggable.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -5903,16 +6327,6 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"\/bower_components\/jquery\/src\/queue.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/jquery\/src\/queue.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
 	"\/bower_components\/jquery\/src\/queue\/delay.js": {
 		"ft": 64,
 		"ma": 0,
@@ -5969,16 +6383,6 @@
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/build\/bower_components\/jquery\/src\/traversing.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/jquery\/src\/traversing\/findFilter.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/jquery\/src\/traversing\/findFilter.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -6063,16 +6467,6 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"\/bower_components\/jquery\/src\/var\/fnToString.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/jquery\/src\/var\/fnToString.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
 	"\/bower_components\/jquery\/src\/var\/getProto.js": {
 		"ft": 64,
 		"ma": 0,
@@ -6109,16 +6503,6 @@
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/build\/bower_components\/jquery\/src\/var\/isFunction.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/jquery\/src\/var\/isWindow.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/jquery\/src\/var\/isWindow.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -6189,16 +6573,6 @@
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/build\/bower_components\/jquery\/src\/var\/support.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/jquery\/src\/var\/toString.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/build\/bower_components\/jquery\/src\/var\/toString.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0

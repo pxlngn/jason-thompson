@@ -36,6 +36,7 @@
     "bootstrap": "^4.1.1",
     "jquery": "^3.3.1",
     "slick-carousel": "^1.8.1",
-    "scrollmagic": "ScrollMagic#^2.0.5"
+    "scrollmagic": "ScrollMagic#^2.0.5",
+    "gsap": "greensock#^2.0.1"
   }
 }
