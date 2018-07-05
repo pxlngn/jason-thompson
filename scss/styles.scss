@@ -1,14 +1,53 @@
 @import '../bower_components/bootstrap/scss/bootstrap.scss';
 /* partials */
 @import 'partials/mixins.scss';
+@import 'partials/colors.scss';
 @import 'partials/type.scss';
 @import 'partials/magic.scss';
 
 body {
-  background-color: black;
+  background-color: white;
 }
 
 img {
   width : 100%;
   height: auto;
+}
+
+.list-columns {
+  @include media-breakpoint-up(md) {
+    column-count: 2;
+  }
+  @include media-breakpoint-up(xl) {
+    column-count: 3;
+  }
+}
+
+#myVideo {
+  position  : absolute;
+  right     : 0;
+  // top       : 0;
+  // bottom    : 0;
+  min-width : 100%;
+  min-height: 100%;
+  z-index   : 1;
+  opacity   : 0.15;
+}
+
+.pager {
+  position: fixed;
+  z-index : 2;
+  top     : 0;
+  bottom  : 0;
+  right   : 20px;
+
+  li {
+    background-color: pink;
+    opacity         : 0.5;
+    transition      : all 1s ease-out;
+
+    &.active {
+      background-color: yellow;
+    }
+  }
 }

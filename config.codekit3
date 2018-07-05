@@ -7517,15 +7517,367 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/imgs\/test.jpg": {
+	"\/imgs\/fpo\/axio.png": {
+		"ft": 32768,
+		"iS": 372539,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/fpo\/axio.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/fpo\/ecc.png": {
+		"ft": 32768,
+		"iS": 629715,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/fpo\/ecc.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/fpo\/erikson.png": {
+		"ft": 32768,
+		"iS": 458876,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/fpo\/erikson.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/fpo\/IMG_0290.jpeg": {
 		"ft": 16384,
-		"iS": 3604369,
+		"iS": 3293072,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/build\/imgs\/test.jpg",
+		"oAP": "\/build\/imgs\/fpo\/IMG_0290.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/imgs\/fpo\/kd.png": {
+		"ft": 32768,
+		"iS": 416375,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/fpo\/kd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/fpo\/kd2.png": {
+		"ft": 32768,
+		"iS": 412260,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/fpo\/kd2.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/fpo\/kd_mobile_2.png": {
+		"ft": 32768,
+		"iS": 222823,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/fpo\/kd_mobile_2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/fpo\/kd_mobile_home.png": {
+		"ft": 32768,
+		"iS": 654573,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/fpo\/kd_mobile_home.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/fpo\/kd_people.png": {
+		"ft": 32768,
+		"iS": 873229,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/fpo\/kd_people.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/fpo\/kd_screen_1.png": {
+		"ft": 32768,
+		"iS": 659636,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/fpo\/kd_screen_1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/fpo\/kd_screen_2.png": {
+		"ft": 32768,
+		"iS": 370369,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/fpo\/kd_screen_2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/fpo\/LJM.png": {
+		"ft": 32768,
+		"iS": 592086,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/fpo\/LJM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/fpo\/lurie.png": {
+		"ft": 32768,
+		"iS": 304192,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/fpo\/lurie.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/fpo\/lurie_ar.png": {
+		"ft": 32768,
+		"iS": 1484511,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/fpo\/lurie_ar.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/fpo\/priester.png": {
+		"ft": 32768,
+		"iS": 356925,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/fpo\/priester.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/fpo\/sb.png": {
+		"ft": 32768,
+		"iS": 562228,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/fpo\/sb.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/fpo\/skender.png": {
+		"ft": 32768,
+		"iS": 539380,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/fpo\/skender.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/Kelley_Drye_Case_Study5.jpg": {
+		"ft": 16384,
+		"iS": 172718,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/Kelley_Drye_Case_Study5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/imgs\/Kelley_Drye_Case_Study6.jpg": {
+		"ft": 16384,
+		"iS": 137848,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/Kelley_Drye_Case_Study6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/imgs\/Kelley_Drye_Case_Study7.jpg": {
+		"ft": 16384,
+		"iS": 172190,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/Kelley_Drye_Case_Study7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/imgs\/lurie_header.png": {
+		"ft": 32768,
+		"iS": 1294473,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/lurie_header.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/lurie_kid.png": {
+		"ft": 32768,
+		"iS": 424656,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/lurie_kid.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/lurie_kid2.png": {
+		"ft": 32768,
+		"iS": 439757,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/lurie_kid2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/lurie_mobile1.png": {
+		"ft": 32768,
+		"iS": 75831,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/lurie_mobile1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/lurie_mobile2.png": {
+		"ft": 32768,
+		"iS": 400448,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/lurie_mobile2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/lurie_phone_2up.png": {
+		"ft": 32768,
+		"iS": 557968,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/lurie_phone_2up.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/lurie_wide.png": {
+		"ft": 32768,
+		"iS": 2322325,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/lurie_wide.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/myface.png": {
+		"ft": 32768,
+		"iS": 186666,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/myface.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/sb_detail.png": {
+		"ft": 32768,
+		"iS": 1571472,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/sb_detail.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/sb_developments.png": {
+		"ft": 32768,
+		"iS": 5680744,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/sb_developments.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/sb_hero_laptop.png": {
+		"ft": 32768,
+		"iS": 1406129,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/sb_hero_laptop.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/sb_phone_people.png": {
+		"ft": 32768,
+		"iS": 293802,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/sb_phone_people.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/sb_phone_retail.png": {
+		"ft": 32768,
+		"iS": 584453,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/sb_phone_retail.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/index.html": {
@@ -7535,11 +7887,25 @@
 		"oAP": "\/build\/index.html",
 		"oF": 0
 		},
-	"\/index__fadein.html": {
+	"\/index_absposition.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/build\/index__fadein.html",
+		"oAP": "\/build\/index_absposition.html",
+		"oF": 0
+		},
+	"\/jason.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/jason.mp4",
+		"oF": 0
+		},
+	"\/jason2.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/jason2.mp4",
 		"oF": 0
 		},
 	"\/js\/main-min.js": {
@@ -7592,6 +7958,19 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/scss\/partials\/_colors.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 1,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/build\/scss\/partials\/css\/_colors.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/scss\/partials\/_magic.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -7614,6 +7993,19 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "\/build\/scss\/partials\/css\/_mixins.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/scss\/partials\/_panels.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 1,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/build\/scss\/partials\/css\/_panels.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1

@@ -2,173 +2,460 @@
 
 <html lang="en">
 
-<head>
-  <meta charset="utf-8">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title> Design/development/drupalist/Jason Thompson</title>
-  <meta name="description" content="Personal web space for Jason Thompson">
-  <meta name="author" content="Jason Thompson">
-<link rel="stylesheet" href="css/webfont_gibson.css">
-  <!-- <link rel="stylesheet" href="css/styles.css?v=1.0"> -->
-
-  <style type="text/css">
-  	.panel {
-  		height: 100%;
-  		width: 100%;
-  	}
-  	.panel.green {
-  		margin-bottom: 400px;
-      background-color: green;
-  	}
-    .panel.blue {
-  		background-color: blue;
-  	}
-    .panel.turqoise {
-  		background-color: pink;
-  	}
-    .panel.bordeaux {
-      background-color: orange;
-    }
-    body {
-      height:100%;
-      width: 100%;
-      text-align:center;
-    }
-    main {
-      height:100vh;
-        width: 100%;
-    }
-    .panel > b {
-	font-size: 15px;
-	color: white;
-	position: relative;
-	display: block;
-	height: 0;
-	overflow: visible;
-	top: 50%;
-}
-  </style>
-
-</head>
+    <title> Design/development/drupalist/Jason Thompson</title>
+    <meta name="description" content="Personal web space for Jason Thompson">
+    <meta name="author" content="Jason Thompson">
+    <link rel="stylesheet" href="css/webfont_gibson.css">
+    <link rel="stylesheet" href="css/styles.css?v=1.0">
+  </head>
 
 
-<body>
-  <main>
+  <body>
+    <main>
+      <div class="pager">
+        <ul class="list-unstyled">
+          <li id="page01">
+            1
+          </li>
+          <li id="page02">
+            2
+          </li>
+          <li id="page03">
+            3
+          </li>
+          <li id="page04">
+            4
+          </li>
+          <li id="page05">
+            5
+          </li>
+          <li id="page06">
+            6
+          </li>
+          <li id="page07">
+            7
+          </li>
+          <li id="page08">
+            8
+          </li>
+        </ul>
+      </div>
+      <section class="start" id="start">
+        <!-- <div class="myface">
+        </div> -->
 
-    <section class="panel blue">
-    	<b>ONE</b>
-    </section>
-    <section class="panel turqoise">
-    	<b>TWO</b>
 
-    </section>
-    <section class="panel green">
-    	<b>THREE</b>
-      <h1>Lorem ipsum dolor sit amet consectetuer adipiscing
-elit</h1>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing
-elit. Aenean commodo ligula eget dolor. Aenean massa
-<strong>strong</strong>. Cum sociis natoque penatibus
-et magnis dis parturient montes, nascetur ridiculus
-mus. Donec quam felis, ultricies nec, pellentesque
-eu, pretium quis, sem. Nulla consequat massa quis
-enim. Donec pede justo, fringilla vel, aliquet nec,
-vulputate eget, arcu. In enim justo, rhoncus ut,
-imperdiet a, venenatis vitae, justo. Nullam dictum
-felis eu pede <a class="external ext" href="#">link</a>
-mollis pretium. Integer tincidunt. Cras dapibus.
-Vivamus elementum semper nisi. Aenean vulputate
-eleifend tellus. Aenean leo ligula, porttitor eu,
-consequat vitae, eleifend ac, enim. Aliquam lorem ante,
-dapibus in, viverra quis, feugiat a, tellus. Phasellus
-viverra nulla ut metus varius laoreet. Quisque rutrum.
-Aenean imperdiet. Etiam ultricies nisi vel augue.
-Curabitur ullamcorper ultricies nisi.</p>
-<h1>Lorem ipsum dolor sit amet consectetuer adipiscing
-elit</h1>
-<h2>Aenean commodo ligula eget dolor aenean massa</h2>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing
-elit. Aenean commodo ligula eget dolor. Aenean massa.
-Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis,
-ultricies nec, pellentesque eu, pretium quis, sem.</p>
-<h2>Aenean commodo ligula eget dolor aenean massa</h2>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing
-elit. Aenean commodo ligula eget dolor. Aenean massa.
-Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis,
-ultricies nec, pellentesque eu, pretium quis, sem.</p>
-<ul>
-  <li>Lorem ipsum dolor sit amet consectetuer.</li>
-  <li>Aenean commodo ligula eget dolor.</li>
-  <li>Aenean massa cum sociis natoque penatibus.</li>
-</ul>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing
-elit. Aenean commodo ligula eget dolor. Aenean massa.
-Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis,
-ultricies nec, pellentesque eu, pretium quis, sem.</p>
-<form action="#" method="post">
-  <fieldset>
-    <label for="name">Name:</label>
-    <input type="text" id="name" placeholder="Enter your
-full name" />
+        <video autoplay muted loop id="myVideo">
+          <!-- <source src="jason.mp4" type="video/mp4"> -->
+            <source src="jason2.mp4" type="video/mp4">
+        </video>
 
-    <label for="email">Email:</label>
-    <input type="email" id="email" placeholder="Enter
-your email address" />
+        <div class="container">
 
-    <label for="message">Message:</label>
-    <textarea id="message" placeholder="What's on your
-mind?"></textarea>
+          <h1>Jason Thompson</h1>
+          <h3>Design<span class="slash"> / </span>Development<span class="slash"> / </span>Drupalist</h3>
+        </div>
 
-    <input type="submit" value="Send message" />
+      </section>
 
-  </fieldset>
-</form>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing
-elit. Aenean commodo ligula eget dolor. Aenean massa.
-Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis,
-ultricies nec, pellentesque eu, pretium quis, sem.</p>
-<table class="data">
-  <tr>
-    <th>Entry Header 1</th>
-    <th>Entry Header 2</th>
-    <th>Entry Header 3</th>
-    <th>Entry Header 4</th>
-  </tr>
-  <tr>
-    <td>Entry First Line 1</td>
-    <td>Entry First Line 2</td>
-    <td>Entry First Line 3</td>
-    <td>Entry First Line 4</td>
-  </tr>
-  <tr>
-    <td>Entry Line 1</td>
-    <td>Entry Line 2</td>
-    <td>Entry Line 3</td>
-    <td>Entry Line 4</td>
-  </tr>
-  <tr>
-    <td>Entry Last Line 1</td>
-    <td>Entry Last Line 2</td>
-    <td>Entry Last Line 3</td>
-    <td>Entry Last Line 4</td>
-  </tr>
-</table>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing
-elit. Aenean commodo ligula eget dolor. Aenean massa.
-Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis,
-ultricies nec, pellentesque eu, pretium quis, sem.</p>
-    </section>
-    <section class="panel bordeaux">
-    	<b>FOUR</b>
-    </section>
+      <section class="panel bg_grey2">
+        <div class="container">
+          <h2 class="text-black">A few of my obsessions.</h2>
+          <div class="row">
+            <div class="col-lg-12">
+              <ul class="list-unstyled list-skills">
+                <li>
+                  Linking strategy with smart design.
+                </li>
+                <li>
+                  Building and leading collaborative teams.
+                </li>
+                <li>
+                  Open Source. Especially Drupal.
+                </li>
+                <li>
+                  Moving seamlessly between design and development.
+                </li>
+                <li>
+                  Directing both designers and developers.
+                </li>
 
-  </main>
-  <script src="js/main-min.js"></script>
-</body>
+                <li>
+                  Building rapport with clients and stakeholders.
+                </li>
+
+
+                <li>
+                  Being eternally curious and a lifelong learner.
+                </li>
+
+              </ul>
+
+
+            </div>
+
+          </div>
+
+
+        </div>
+      </section>
+
+      <section class="panel" id="project01">
+        <div class="container">
+          <h6>
+          Concept / Design / Creative Direction
+        </h6>
+          <h2>Lurie Children’s</h2>
+          <div class="row">
+            <div class="col-lg-9 mb-5">
+              <p>
+                The Lurie Children’s Annual Report has transitioned from the traditional print format to an online only microsite. As the digital team lead, I have worked with the client stakeholders on strategy, and lead the design and development team.
+              </p>
+            </div>
+
+            <div class="col-lg-12">
+              <img src="imgs/lurie_hero.png" />
+
+            </div>
+
+
+            <div class="col-lg-8 my-5">
+              <p>
+                The architecture of the site is similar each year, so the challenge is always to create a unique, dynamic online report, and find new ways to push the UX and enhance communication of the hospital’s mission.
+              </p>
+            </div>
+
+            <div class="col-lg-4">
+
+            </div>
+
+            <div class="col-lg-3 offset-3">
+
+              <img src="imgs/lurie_phone3.png" />
+
+            </div>
+            <div class="col-lg-3">
+
+              <img src="imgs/lurie_phone1.png" />
+
+            </div>
+            <div class="col-lg-3">
+
+              <img src="imgs/lurie_phone2.png" />
+
+            </div>
+
+
+
+
+          </div>
+        </div>
+      </section>
+
+      <section class="panel bg_grey" id="project02">
+        <div class="container">
+
+          <div class="col-lg-9 pl-0 mb-5">
+            <h6>
+  Creative Direction / Design / Development / Drupal
+          </h6>
+
+            <h2>Sterling Bay</h2>
+            <p>
+              Sterling Bay is a Chicago-based commercial real estate firm, perhaps best know for revitalizing the Fulton Market area of Chicago. The website was completed as part of an overall brand refresh.
+            </p>
+
+          </div>
+
+          <div class="row">
+            <div class="col-lg-10 offset-lg-1">
+              <img src="imgs/sb_hero_laptop.png" />
+
+            </div>
+            <div class="col-lg-6 pt-3">
+              <img src="imgs/sb_detail.png" />
+            </div>
+
+            <div class="col-lg-6">
+
+              <div class="row">
+                <div class="col-6 pl-5 px-lg-3 px-xl-2">
+                  <img src="imgs/sb_phone_retail.png" />
+                </div>
+                <div class="col-6 pr-5 px-lg-3 px-xl-2">
+                  <img src="imgs/sb_phone_people.png" />
+                </div>
+              </div>
+              <p class="pt-5">
+                In addition to directing the design team, I also handled the Drupal 8 development and theming. The website is a key touchpoint for the Sterling Bay brand and has been instrumental in winning new commercial real estate clients.
+              </p>
+            </div>
+
+
+
+
+
+          </div>
+        </div>
+      </section>
+
+      <section class="panel" id="project03">
+        <div class="container">
+          <h6>
+          Design / Concept / UX / Wordpress
+        </h6>
+
+          <h2>Kelley Drye</h2>
+          <div class="col-lg-9 pl-0 pb-5 mb-5">
+            <p>
+              As a law firm, a key challenge was to design a user experience which is both modern but also appropriate to the content and audience. Beyond the design deliverable, we had a more prominent role in leading the client stakeholders through the process.</p>
+          </div>
+
+
+          <div class="row">
+
+            <div class="col-lg-10 offset-lg-1">
+              <img src="imgs/fpo/kd.png" />
+            </div>
+
+            <div class="col-12 pt-4 col-lg-4 px-5 d-none d-lg-block">
+              <img src="imgs/fpo/kd_mobile_home.png" />
+            </div>
+
+            <div class="col-12 col-lg-8">
+              <div class="row pt-4">
+                <div class="col-6 pl-5 px-lg-5">
+                  <img src="imgs/fpo/kd_mobile_2.png" />
+                </div>
+                <div class="col-6 pr-5 px-lg-5">
+                  <img src="imgs/fpo/kd_mobile_2.png" />
+                </div>
+                <div class="col-12 pt-5 px-5 px-lg-3">
+
+
+                  <img class="py-5" src="imgs/fpo/kd_screen_1.png" />
+                  <div class="pt-5">
+                    <p>
+                      Partnering with another firm handling the site architecture and Sharepoint development, my primary role was to lead the design team to create a responsive and intuitive design for this deep and content rich site. Visit <a href="http://www.kelleydrye.com"
+                        target="_blank">kelleydrye.com</a></p>
+
+                  </div>
+
+
+                </div>
+
+              </div>
+
+            </div>
+
+
+
+          </div>
+          <p class="legal">
+            Work done while employed @ Pivot Design
+          </p>
+        </div>
+      </section>
+
+      <section class="panel bg_grey" id="project04">
+        <div class="container">
+          <h6>
+          Design / Concept / UX / Wordpress
+        </h6>
+
+          <h2>Skender</h2>
+          <p>
+            A recent Wordpress project, Skender Construction referenced the Sterling Bay website as the key reason they chose to work with Pivot Design. Initial discovery work with many client stakeholders, revealed that their current web site no longer reflected
+            the company’s work or dynamic culture. The new site structure and design more truly reflect the amazing work they do, while also sharing their dynamic culture to attract high-quality job candidates. The project quickly evolved to a full rebrand
+            based largely on the new website.</p>
+
+          <div class="row">
+            <div class="col-lg-12">
+              <img src="imgs/fpo/skender.png" />
+
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+      <section class="panel" id="project05">
+        <div class="container">
+          <h6>
+          Design / Concept / UX / Wordpress
+        </h6>
+
+          <h2>Priester Aviation</h2>
+          <p>
+            As a small private aviation company, one of the challenges was to create a digital presence to compete with their larger competitors, while keeping their family heritage a key differentiator. As the lead art director/designer, I was responsible for every
+            aspect of this project. Beyond a website, this project included coordination and direction of a 2-day photo shoot. The site was designed before mobile-first was even a buzz word, it includes a feature for the client to list empty leg flights,
+            and maintain detailed information about their fleet. An early Drupal 7 site which is still up and running!</p>
+
+          <div class="row">
+            <div class="col-lg-12">
+              <img src="imgs/fpo/priester.png" />
+
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+      <section class="panel bg_grey" id="project06">
+        <div class="container">
+          <h6>
+          Design / Concept / UX / Wordpress
+        </h6>
+
+          <h2>Erikson Institute</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+
+          <div class="row">
+            <div class="col-lg-12">
+              <img src="imgs/fpo/erikson.png" />
+
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+
+      <section class="panel" id="project07">
+        <div class="container">
+          <h6>
+          Design / Concept / UX / Wordpress
+        </h6>
+
+          <h2>Axio</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+
+          <div class="row">
+            <div class="col-lg-12">
+              <img src="imgs/fpo/axio.png" />
+
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+
+      <section class="panel bg_grey more" id="project08">
+        <div class="container">
+          <h2>
+          Explore more
+        </h2>
+
+
+          <div class="row">
+            <div class="col-md-4">
+              <img src="imgs/fpo/ecc.png" />
+              <h6>Executive Coaching Connections</h6>
+            </div>
+            <div class="col-md-4">
+              <img src="imgs/fpo/axio.png" />
+              <h6>Axio</h6>
+            </div>
+            <div class="col-md-4">
+              <img src="imgs/fpo/priester.png" />
+              <h6>Priester Aviation</h6>
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+      <section class="panel toolkit">
+        <div class="container">
+          <h2 class="text-black">My ever expanding toolbox.</h2>
+          <ul class="list-unstyled list-columns">
+
+            <li>
+              Open Source
+            </li>
+            <li>
+              GIT</li>
+            <li>
+              Drupal 8
+            </li>
+            <li>
+              Wordpress
+            </li>
+            <li>
+              Bootstrap
+            </li>
+            <li>
+              SASS
+            </li>
+
+            <li>
+              Sketch
+            </li>
+            <li>
+              Adobe Creative Suite</li>
+          </ul>
+        </div>
+        </div>
+      </section>
+
+      <section class="panel contact">
+        <div class="container">
+          <h6>
+          Background
+        </h6>
+
+          <ul class="list-unstyled row my-5">
+            <li class="col-lg-6">
+
+              <p><strong>Pivot Design</strong><br />
+                <em>DIGITAL TEAM LEAD / 2007 ~ 2018</em></p>
+              <p>
+                In my time at Pivot Design I have worked on creative for both interactive and print. As the types of clients has changed my focus has evolved to leading the creative team on all digital endeavors - websites, app development, interactive pieces, etc..
+                I am actively involved with clients, managing projects, providing digital strategy, UI/UX, managing a team of designers and developers, as well as hands-on design and development.
+              </p>
+            </li>
+
+            <li class="col-lg-6">
+              <p><strong>Strategy One</strong><br />
+                <em>CREATIVE DIRECTOR / 2000 ~ 2007</em></p>
+              <p>As creative director. I was actively involved with new business development, managing the creative team and hands on design work. Design assignments varied from corporate identity, collateral, direct mail, publications, exhibits, packaging
+                and websites.
+              </p>
+            </li>
+
+            <li class="col-lg-6">
+              <p><strong>Tucker Knapp</strong><br />
+                <em>ART DIRECTOR / 1998 ~ 2000</em>
+              </p>
+
+              <p><strong>Studio North</strong><br />
+                <em>ART DIRECTOR / 1993 ~ 1998</em>
+              </p>
+            </li>
+          </ul>
+
+          <h2>jthomps86@gmail.com</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+          <p>
+            Twitter
+          </p>
+          <p>
+            Linkedin
+          </p>
+
+        </div>
+      </section>
+
+    </main>
+    <script src="js/main-min.js"></script>
+  </body>
 
 </html>

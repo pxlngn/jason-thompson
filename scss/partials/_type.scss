@@ -6,14 +6,96 @@ body {
 }
 
 h1 {
-  color      : white;
-  font-family: 'Gibson-Regular';
+  color         : $grey;
+  font-family   : 'Gibson-SemiBold';
+  font-weight   : normal !important;
+  @include fluid-type(45px, 120px);
+  letter-spacing: 0.015em;
+
+  .start & {
+    color: white;
+  }
+}
+
+.slash {
+  opacity: 0.5;
+}
+
+.text-black {
+  color: black !important;
+}
+
+.text-white {
+  color: white !important;
 }
 
 h2 {
-  color: black;
+  color      : $black;
+  font-family: 'Gibson-SemiBold';
+  @include fluid-type(30px, 90px);
+  @extend .mb-3;
 }
 
 h3 {
-  color: grey;
+  color         : $grey;
+  letter-spacing: 0.025em;
+}
+
+h4 {
+  font-family: 'Gibson-SemiBold';
+  color      : $grey;
+
+  .contact & {
+    color: white;
+  }
+}
+
+h6 {
+  font-family   : 'Gibson-Regular';
+  @include fluid-type(11px, 18px);
+  color         : $grey;
+  letter-spacing: 0.02em;
+
+  .contact & {
+    color: $grey;
+  }
+}
+
+p {
+  @include fluid-type(18px, 36px);
+  line-height: 1.2;
+  color      : $grey;
+
+  &.legal {
+    @include fluid-type(10px, 14px);
+    color   : #ccc;
+    position: absolute;
+    bottom  : 0;
+  }
+}
+
+li {
+  @include fluid-type(18px, 50px);
+
+  p {
+    @include fluid-type(16px, 24px);
+    line-height: 1.4;
+
+    em {
+      font-style    : normal;
+      color         : $grey;
+      letter-spacing: 0.03em;
+      @include fluid-type(12px, 18px);
+    }
+
+    strong {
+      color      : white;
+      font-weight: normal;
+      font-family: 'Gibson-Regular';
+    }
+  }
+
+  .list-skills & {
+    font-family: 'Gibson-Regular';
+  }
 }
