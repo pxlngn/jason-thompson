@@ -7517,6 +7517,149 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/imgs\/amerigo_hero.png": {
+		"ft": 32768,
+		"iS": 1203142,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/amerigo_hero.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/axio_hero.png": {
+		"ft": 32768,
+		"iS": 1326692,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/axio_hero.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/ecc_hero.png": {
+		"ft": 32768,
+		"iS": 1896118,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/ecc_hero.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/erksn_blue.png": {
+		"ft": 32768,
+		"iS": 1001240,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/erksn_blue.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/erksn_hero.png": {
+		"ft": 32768,
+		"iS": 1097797,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/erksn_hero.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/erksn_icons.png": {
+		"ft": 32768,
+		"iS": 138097,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/erksn_icons.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/erksn_icons2.png": {
+		"ft": 32768,
+		"iS": 128774,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/erksn_icons2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/erksn_magenta.png": {
+		"ft": 32768,
+		"iS": 808793,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/erksn_magenta.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/erksn_masters.png": {
+		"ft": 32768,
+		"iS": 1859805,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/erksn_masters.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/erksn_phone.png": {
+		"ft": 32768,
+		"iS": 399679,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/erksn_phone.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/erksn_phone2.png": {
+		"ft": 32768,
+		"iS": 272192,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/erksn_phone2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/erksn_phone3.png": {
+		"ft": 32768,
+		"iS": 305777,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/erksn_phone3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/erksn_purple.png": {
+		"ft": 32768,
+		"iS": 764092,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/erksn_purple.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/imgs\/fpo\/axio.png": {
 		"ft": 32768,
 		"iS": 372539,
@@ -7704,6 +7847,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/imgs\/kd_hero_full.png": {
+		"ft": 32768,
+		"iS": 1961500,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/kd_hero_full.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/kd_phone_full.png": {
+		"ft": 32768,
+		"iS": 648921,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/kd_phone_full.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/imgs\/Kelley_Drye_Case_Study5.jpg": {
 		"ft": 16384,
 		"iS": 172718,
@@ -7737,80 +7902,69 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/imgs\/lurie_header.png": {
+	"\/imgs\/lurie_hero-sm.png": {
 		"ft": 32768,
-		"iS": 1294473,
+		"iS": 831281,
 		"oA": 0,
-		"oAP": "\/build\/imgs\/lurie_header.png",
+		"oAP": "\/build\/imgs\/lurie_hero-sm.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/imgs\/lurie_kid.png": {
+	"\/imgs\/lurie_hero.png": {
 		"ft": 32768,
-		"iS": 424656,
+		"iS": 2955775,
 		"oA": 0,
-		"oAP": "\/build\/imgs\/lurie_kid.png",
+		"oAP": "\/build\/imgs\/lurie_hero.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/imgs\/lurie_kid2.png": {
+	"\/imgs\/lurie_page.png": {
 		"ft": 32768,
-		"iS": 439757,
+		"iS": 2571097,
 		"oA": 0,
-		"oAP": "\/build\/imgs\/lurie_kid2.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/imgs\/lurie_mobile1.png": {
-		"ft": 32768,
-		"iS": 75831,
-		"oA": 0,
-		"oAP": "\/build\/imgs\/lurie_mobile1.png",
+		"oAP": "\/build\/imgs\/lurie_page.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/imgs\/lurie_mobile2.png": {
+	"\/imgs\/lurie_phone1.png": {
 		"ft": 32768,
-		"iS": 400448,
+		"iS": 458351,
 		"oA": 0,
-		"oAP": "\/build\/imgs\/lurie_mobile2.png",
+		"oAP": "\/build\/imgs\/lurie_phone1.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/imgs\/lurie_phone_2up.png": {
+	"\/imgs\/lurie_phone2.png": {
 		"ft": 32768,
-		"iS": 557968,
+		"iS": 134952,
 		"oA": 0,
-		"oAP": "\/build\/imgs\/lurie_phone_2up.png",
+		"oAP": "\/build\/imgs\/lurie_phone2.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/imgs\/lurie_wide.png": {
+	"\/imgs\/lurie_phone3.png": {
 		"ft": 32768,
-		"iS": 2322325,
+		"iS": 491106,
 		"oA": 0,
-		"oAP": "\/build\/imgs\/lurie_wide.png",
+		"oAP": "\/build\/imgs\/lurie_phone3.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -7822,6 +7976,28 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/priester_hero.png": {
+		"ft": 32768,
+		"iS": 890332,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/priester_hero.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/rtc_hero.png": {
+		"ft": 32768,
+		"iS": 1105594,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/rtc_hero.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -7877,6 +8053,72 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/skndr_hero.png": {
+		"ft": 32768,
+		"iS": 1197684,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/skndr_hero.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/skndr_page1.png": {
+		"ft": 32768,
+		"iS": 2271779,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/skndr_page1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/skndr_page2.png": {
+		"ft": 32768,
+		"iS": 2072732,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/skndr_page2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/skndr_page3.png": {
+		"ft": 32768,
+		"iS": 1343116,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/skndr_page3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/skndr_phone_1.png": {
+		"ft": 32768,
+		"iS": 481436,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/skndr_phone_1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/imgs\/skndr_phone_2.png": {
+		"ft": 32768,
+		"iS": 479999,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/skndr_phone_2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},

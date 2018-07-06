@@ -1,0 +1,33 @@
+.contact {
+  h2 {
+    color: $grey2;
+  }
+
+  h6,
+  li,
+  p {
+    color  : $grey3;
+    opacity: 1;
+  }
+
+  p {
+    letter-spacing: 0.03em;
+  }
+
+  h3 {
+    color  : $grey2;
+    opacity: 0.75;
+  }
+}
+
+.signoff {
+  margin-top: 10vw;
+
+  p {
+    color: $grey3;
+  }
+
+  p strong {
+    color: $grey2;
+  }
+}

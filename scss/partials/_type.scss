@@ -7,9 +7,10 @@ body {
 
 h1 {
   color         : $grey;
-  font-family   : 'Gibson-SemiBold';
+  font-family   : 'Gibson-Semibold';
   font-weight   : normal !important;
-  @include fluid-type(45px, 120px);
+  @include fluid-type(30px, 50px);
+  // @include fluid-type(22px, 44px);
   letter-spacing: 0.015em;
 
   .start & {
@@ -32,13 +33,27 @@ h1 {
 h2 {
   color      : $black;
   font-family: 'Gibson-SemiBold';
-  @include fluid-type(30px, 90px);
-  @extend .mb-3;
+  @include fluid-type(42px, 90px);
+  line-height: 1;
+  @extend .mb-5;
+
+  .contact & {
+    color: $grey2;
+  }
 }
 
 h3 {
+  font-family   : 'Gibson-SemiBold';
   color         : $grey;
   letter-spacing: 0.025em;
+  @include fluid-type(18px, 36px);
+  @extend .mt-3;
+  @extend .mt-lg-5;
+
+  .start & {
+    font-family: 'Gibson-Regular';
+    @extend .mt-0;
+  }
 }
 
 h4 {
@@ -55,6 +70,7 @@ h6 {
   @include fluid-type(11px, 18px);
   color         : $grey;
   letter-spacing: 0.02em;
+  opacity       : 0.5;
 
   .contact & {
     color: $grey;
@@ -67,10 +83,11 @@ p {
   color      : $grey;
 
   &.legal {
-    @include fluid-type(10px, 14px);
-    color   : #ccc;
-    position: absolute;
-    bottom  : 0;
+    @include fluid-type(11px, 15px);
+    color      : #ccc;
+    position   : absolute;
+    bottom     : 0;
+    line-height: 1.4;
   }
 }
 
@@ -97,5 +114,7 @@ li {
 
   .list-skills & {
     font-family: 'Gibson-Regular';
+    line-height: 1.1;
+    @extend .mb-3;
   }
 }

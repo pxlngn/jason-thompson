@@ -32,12 +32,12 @@ $(document).ready(function() {
         triggerHook: 0.9,
       })
       .setClassToggle(this, 'fade-in')
-      .addIndicators({
-        name: 'fade scene',
-        colorTrigger: 'pink',
-        indent: 10,
-        colorStart: 'cyan'
-      })
+      // .addIndicators({
+      //   name: 'fade scene',
+      //   colorTrigger: 'pink',
+      //   indent: 10,
+      //   colorStart: 'cyan'
+      // })
       .addTo(controller);
 
   });
