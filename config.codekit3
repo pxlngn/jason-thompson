@@ -7902,6 +7902,16 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/imgs\/linkedin.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/imgs\/linkedin.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/imgs\/lurie_hero-sm.png": {
 		"ft": 32768,
 		"iS": 831281,
@@ -8122,6 +8132,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/imgs\/user.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/imgs\/user.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -8248,6 +8268,19 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "\/build\/scss\/partials\/css\/_panels.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/scss\/partials\/_start-panel.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 1,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/build\/scss\/partials\/css\/_start-panel.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1

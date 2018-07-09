@@ -1,42 +1,45 @@
-.start {
-  background-color: $black;
-  height          : 100vh;
-  width           : 100%;
-  @extend .py-5;
-}
-
-.myface {
-  position           : absolute;
-  top                : 0;
-  right              : 0;
-  bottom             : 0;
-  left               : 0;
-  background-image   : url("../imgs/myface.png");
-  background-size    : auto 70%;
-  background-position: bottom center;
-  background-repeat  : no-repeat;
-  opacity            : 0.1;
-  @include media-breakpoint-up(lg) {
-    background-position: bottom right;
-    background-size    : auto 95%;
-  }
-}
-
-.panel {
-  height : 100%;
-  width  : 100%;
-  padding: 10vmin 0;
-  z-index: 2;
-  @include media-breakpoint-up(lg) {
-    min-height: 100vh;
-  }
-}
+// .myface {
+//   position           : absolute;
+//   top                : 0;
+//   right              : 0;
+//   bottom             : 0;
+//   left               : 0;
+//   background-image   : url("../imgs/myface.png");
+//   background-size    : auto 70%;
+//   background-position: bottom center;
+//   background-repeat  : no-repeat;
+//   opacity            : 0.1;
+//   @include media-breakpoint-up(lg) {
+//     background-position: bottom right;
+//     background-size    : auto 95%;
+//   }
+// }
 
 .panel {
   position  : relative;
   background: white;
   opacity   : 0;
   transition: all 1s ease-out;
+  height    : 100%;
+  width     : 100%;
+  padding   : 10vmin 0 5vmin;
+  z-index   : 4;
+  @include media-breakpoint-up(lg) {
+    min-height: 100vh;
+  }
+
+  a {
+    border-bottom  : 2px dotted $grey400;
+    text-decoration: none;
+    color          : $grey500;
+    transition     : all 0.4s ease-out;
+
+    &:hover {
+      text-decoration: none;
+      border-bottom  : 2px solid $grey500;
+      color          : black;
+    }
+  }
 
   &.bg_grey2,
   &.fade-in {
@@ -44,19 +47,14 @@
   }
 
   &.bg_grey {
-    background: $grey0;
+    background: $grey200;
   }
 
   &.bg_grey2 {
-    background: $grey1;
+    background: $grey600;
   }
 
   &.contact {
     background-color: $black;
   }
-}
-
-#start {
-  display    : flex;
-  align-items: center;
 }

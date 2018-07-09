@@ -1,12 +1,12 @@
 .contact {
   h2 {
-    color: $grey2;
+    color: $grey400;
   }
 
   h6,
   li,
   p {
-    color  : $grey3;
+    color  : $grey600;
     opacity: 1;
   }
 
@@ -15,7 +15,7 @@
   }
 
   h3 {
-    color  : $grey2;
+    color  : $grey400;
     opacity: 0.75;
   }
 }
@@ -23,11 +23,24 @@
 .signoff {
   margin-top: 10vw;
 
+  a {
+    border-bottom  : 0;
+    text-decoration: none;
+    color          : $grey400;
+    transition     : all 0.4s ease-out;
+
+    &:hover {
+      text-decoration: none;
+      border-bottom  : 0;
+      color          : $grey200;
+    }
+  }
+
   p {
-    color: $grey3;
+    color: $grey600;
   }
 
   p strong {
-    color: $grey2;
+    color: $grey400;
   }
 }

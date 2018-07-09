@@ -5,14 +5,27 @@
 @import 'partials/type.scss';
 @import 'partials/magic.scss';
 @import 'partials/panels.scss';
+@import 'partials/start-panel.scss';
 
 body {
   background-color: white;
+  overflow-x      : hidden;
+}
+
+main {
+  overflow-x: hidden;
 }
 
 img {
   width : 100%;
   height: auto;
+}
+
+.container {
+  @include media-breakpoint-down(sm) {
+    padding-left : 30px;
+    padding-right: 30px;
+  }
 }
 
 .list-columns {
@@ -29,22 +42,34 @@ img {
     line-height: 1.1;
     @extend .mb-2;
     @extend .mb-lg-3;
+    width      : 100%;
+    display    : inline-block;
+  }
+}
+
+.list-social {
+  img {
+    width: 30px;
+    @include media-breakpoint-up(md) {
+      // width: 30px;
+    }
+    @include media-breakpoint-up(lg) {
+      width: 40px;
+    }
+  }
+
+  a {
+    opacity   : 0.7;
+    transition: all 0.5s ease-out;
+
+    &:hover {
+      opacity: 1;
+    }
   }
 }
 
 img.max208 {
   max-width: 208px;
-}
-
-#myVideo {
-  position  : absolute;
-  right     : 0;
-  // top       : 0;
-  // bottom    : 0;
-  min-width : 100%;
-  min-height: 100%;
-  z-index   : 1;
-  opacity   : 0.15;
 }
 
 .pager {
@@ -55,9 +80,8 @@ img.max208 {
   right   : 20px;
 
   li {
-    background-color: pink;
-    opacity         : 0.5;
-    transition      : all 1s ease-out;
+    opacity   : 0.5;
+    transition: all 1s ease-out;
 
     &.active {
       background-color: yellow;
