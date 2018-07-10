@@ -3,19 +3,6 @@ body {
   font-weight: normal !important;
 }
 
-a {
-  border-bottom  : 2px dotted $grey300;
-  text-decoration: none;
-  color          : $grey500;
-  transition     : all 0.4s ease-out;
-
-  &:hover {
-    text-decoration: none;
-    border-bottom  : 2px solid $grey500;
-    color          : black;
-  }
-}
-
 h1 {
   color         : $grey800;
   font-family   : 'Gibson-Regular';
