@@ -9,6 +9,193 @@
 	],
 "creatorBuild": "26680",
 "files": {
+	"\/android-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 2945,
+		"oA": 0,
+		"oAP": "\/build\/android-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/android-icon-192x192.png": {
+		"ft": 32768,
+		"iS": 3297,
+		"oA": 0,
+		"oAP": "\/build\/android-icon-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/android-icon-36x36.png": {
+		"ft": 32768,
+		"iS": 1196,
+		"oA": 0,
+		"oAP": "\/build\/android-icon-36x36.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/android-icon-48x48.png": {
+		"ft": 32768,
+		"iS": 1352,
+		"oA": 0,
+		"oAP": "\/build\/android-icon-48x48.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/android-icon-72x72.png": {
+		"ft": 32768,
+		"iS": 1710,
+		"oA": 0,
+		"oAP": "\/build\/android-icon-72x72.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/android-icon-96x96.png": {
+		"ft": 32768,
+		"iS": 2070,
+		"oA": 0,
+		"oAP": "\/build\/android-icon-96x96.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/apple-icon-114x114.png": {
+		"ft": 32768,
+		"iS": 2398,
+		"oA": 0,
+		"oAP": "\/build\/apple-icon-114x114.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/apple-icon-120x120.png": {
+		"ft": 32768,
+		"iS": 2484,
+		"oA": 0,
+		"oAP": "\/build\/apple-icon-120x120.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/apple-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 2945,
+		"oA": 0,
+		"oAP": "\/build\/apple-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/apple-icon-152x152.png": {
+		"ft": 32768,
+		"iS": 3091,
+		"oA": 0,
+		"oAP": "\/build\/apple-icon-152x152.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/apple-icon-180x180.png": {
+		"ft": 32768,
+		"iS": 3656,
+		"oA": 0,
+		"oAP": "\/build\/apple-icon-180x180.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/apple-icon-57x57.png": {
+		"ft": 32768,
+		"iS": 1463,
+		"oA": 0,
+		"oAP": "\/build\/apple-icon-57x57.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/apple-icon-60x60.png": {
+		"ft": 32768,
+		"iS": 1500,
+		"oA": 0,
+		"oAP": "\/build\/apple-icon-60x60.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/apple-icon-72x72.png": {
+		"ft": 32768,
+		"iS": 1710,
+		"oA": 0,
+		"oAP": "\/build\/apple-icon-72x72.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/apple-icon-76x76.png": {
+		"ft": 32768,
+		"iS": 1750,
+		"oA": 0,
+		"oAP": "\/build\/apple-icon-76x76.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/apple-icon-precomposed.png": {
+		"ft": 32768,
+		"iS": 3864,
+		"oA": 0,
+		"oAP": "\/build\/apple-icon-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/apple-icon.png": {
+		"ft": 32768,
+		"iS": 3864,
+		"oA": 0,
+		"oAP": "\/build\/apple-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/bower.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -7306,6 +7493,13 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/browserconfig.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/browserconfig.xml",
+		"oF": 0
+		},
 	"\/build": {
 		"ft": 65536,
 		"oA": 1,
@@ -7517,6 +7711,57 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 951,
+		"oA": 0,
+		"oAP": "\/build\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 1162,
+		"oA": 0,
+		"oAP": "\/build\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicon-96x96.png": {
+		"ft": 32768,
+		"iS": 2070,
+		"oA": 0,
+		"oAP": "\/build\/favicon-96x96.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/favicon.ico",
+		"oF": 0
+		},
+	"\/favicon.png": {
+		"ft": 32768,
+		"iS": 817,
+		"oA": 0,
+		"oAP": "\/build\/favicon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/imgs\/amerigo_hero.png": {
 		"ft": 32768,
 		"iS": 1203142,
@@ -7538,6 +7783,16 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"\/imgs\/close.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/imgs\/close.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/imgs\/ecc_hero.png": {
 		"ft": 32768,
@@ -7989,6 +8244,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/imgs\/myposter.jpg": {
+		"ft": 16384,
+		"iS": 349292,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/build\/imgs\/myposter.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/imgs\/priester_hero.png": {
 		"ft": 32768,
 		"iS": 890332,
@@ -8173,11 +8439,25 @@
 		"oAP": "\/build\/jason.mp4",
 		"oF": 0
 		},
+	"\/jason1.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/jason1.mp4",
+		"oF": 0
+		},
 	"\/jason2.mp4": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/build\/jason2.mp4",
+		"oF": 0
+		},
+	"\/jason_bg.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/jason_bg.mp4",
 		"oF": 0
 		},
 	"\/js\/main-min.js": {
@@ -8229,6 +8509,58 @@
 		"oF": 2,
 		"sC": 3,
 		"tS": 0
+		},
+	"\/manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/build\/manifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/ms-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 2945,
+		"oA": 0,
+		"oAP": "\/build\/ms-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ms-icon-150x150.png": {
+		"ft": 32768,
+		"iS": 3053,
+		"oA": 0,
+		"oAP": "\/build\/ms-icon-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ms-icon-310x310.png": {
+		"ft": 32768,
+		"iS": 7418,
+		"oA": 0,
+		"oAP": "\/build\/ms-icon-310x310.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ms-icon-70x70.png": {
+		"ft": 32768,
+		"iS": 1693,
+		"oA": 0,
+		"oAP": "\/build\/ms-icon-70x70.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/scss\/partials\/_colors.scss": {
 		"aP": 1,

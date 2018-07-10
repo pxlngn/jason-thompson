@@ -11,6 +11,24 @@
     <meta name="author" content="Jason Thompson">
     <link rel="stylesheet" href="css/webfont_gibson.css">
     <link rel="stylesheet" href="css/styles.css?v=1.0">
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
   </head>
 
 
@@ -46,12 +64,12 @@
       </div> -->
       <div class="fixed-top w-100" id="toggle">
 
-        <div class="container btn-top">
+        <div class="btn-top">
           <div class="row justify-content-end">
-            <div class="col-6 text-right">
+            <div class="col-6 text-right px-0">
 
 
-              <button class="btn shadow-none" type="button" data-toggle="collapse" data-target="#collapseStory" aria-expanded="false" aria-controls="collapseStory">
+              <button class="btn shadow-none" id="about-btn" type="button" data-toggle="collapse" data-target="#collapseStory" aria-expanded="false" aria-controls="collapseStory">
            <span id="about">About Jason</span><span id="close">Close</span>
          </button>
 
@@ -107,8 +125,9 @@
       <section class="start" id="start">
 
         <video autoplay muted loop id="myVideo">
-          <!-- <source src="jason.mp4" type="video/mp4"> -->
-            <source src="jason2.mp4" type="video/mp4">
+            <source src="jason_bg.mp4" poster="imgs/myposter.jpg" type="video/mp4">
+
+
         </video>
 
         <div class="container">
@@ -501,14 +520,15 @@
                 <li>Twig/php</li>
                 <li>SASS</li>
                 <li>Codekit</li>
+                <li>UXPin</li>
                 <li>jQuery</li>
+                <li>Litmus</li>
                 <li>Mailchimp</li>
                 <li>Trello</li>
                 <li>Dropbox</li>
                 <li>Transmit</li>
                 <li>Wordpress</li>
-
-                <li>Kalabox/lando</li>
+                <li>Lando</li>
                 <li>Docker</li>
                 <li>Adobe Photoshop</li>
                 <li>Siteimprove</li>
@@ -525,10 +545,12 @@
                 <li>Amerigo Education</li>
                 <li>AstroTurf</li>
                 <li>Baxter</li>
+                <li>Chicago White Sox</li>
                 <li>Cingular Wireless</li>
                 <li>Conner Sport Flooring</li>
                 <li>Diversey</li>
                 <li>Erikson Institute</li>
+                <li>Focused Health Solutions</li>
                 <li>Gwendolyn Brooks College Prepatory Academy</li>
                 <li>Kelley Drye</li>
                 <li>Komatsu</li>
@@ -555,7 +577,7 @@
         <div class="container">
 
           <h2>
-          My background.
+          <span class="text-nowrap">My background.</span>
         </h2>
           <div class="row">
 
@@ -575,7 +597,7 @@
                 </p>
                 <p>
                   I engaged directly with clients, guiding them through the full-lifecycle of digital projects, including requirement gathering, presentations, site architecture, UI/UX design, content strategy, prototyping and development. I was also involved in new business
-                  development, finding new opportunities with existing clients, and writing the occasional proposals.
+                  development, finding new opportunities with existing clients, and writing the occasional proposal.
                 </p>
                 <p>
                   For the past 5 years, I was digitally focused, but my design thinking still informs all aspects of my work. I also continued to contribute design and development whenever possible, it is important to keep your skills relevant.
@@ -600,8 +622,8 @@
             <div class="col-lg-3 offset-lg-1">
 
 
-              <ul class="list-unstyled mt-2 mt-lg-5 list-expertise">
-                <li class="mb-5">
+              <ul class="list-unstyled mt-3 mt-lg-2 mt-lg-5 list-expertise">
+                <li class="mb-4">
                   <h6>Skillset / expertise</h6>
                 </li>
                 <li>Creative direction</li>
@@ -643,7 +665,7 @@
               <p>
                 <strong><a href="mailto:jthomps86@gmail.com">
                   jthomps86@gmail.com</a>&nbsp;
-                </strong><span class="slash"> / </span>847-321-1377</p>
+                </strong><span class="slash">/&nbsp;</span><span class="text-nowrap">847-321-1377</span></p>
             </div>
             <div class="col-lg-4 text-left text-lg-right">
               <ul class="list-unstyled list-social">

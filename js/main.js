@@ -22,6 +22,7 @@ $(document).ready(function() {
     .setPin('#start', {
       pushFollowers: false
     })
+    .setClassToggle('body', 'pinned')
     .addTo(controller);
 
   // loop thru each project element
@@ -56,5 +57,14 @@ $(document).ready(function() {
       video.play();
     });
   })();
+
+
+  // prevent body scroll if about is showing
+
+$('#about-btn').on('click', function(e) {
+   $('body').toggleClass("noscroll"); //you can list several class names
+   e.preventDefault();
+ });
+
 
 });
